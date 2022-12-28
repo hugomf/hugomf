@@ -9,12 +9,6 @@ I'm Hugo, Infrastructure Enginer from **Toluca, Mexico**. I like to share my kno
 
 ## My links :
 
-* [Vagrant](https://blog.stephane-robert.info/tags/vagrant/)
-* [Ansible](https://blog.stephane-robert.info/post/introduction-ansible/)
-* [Docker](https://blog.stephane-robert.info/tags/docker/)
-* [Kubernetes](https://blog.stephane-robert.info/tags/kubernetes/)
-* [Terraform](https://blog.stephane-robert.info/tags/terraform/)
-* [Gitlab-ci](https://blog.stephane-robert.info/tags/gitlab/)
 
 ## Where to find me
 
