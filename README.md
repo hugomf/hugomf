@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @hugomf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey! Nice to see you
+Welcome to my page! I'm Hugo, Infrastructure Enginer in Mexico. I would like to share my knowledge about different technologies and you can access all examples in my projects.
 
-<!---
-hugomf/hugomf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I use often :
+VagrantPackerDockerKubernetesPrometheusGrafanaAnsibleTerraformPythonShell ScriptMarkdownMariaDBMySQLPostgresRedisSQLiteApacheNginxAWSGoogle CloudGitGitLabGitHubGitHub ActionsGitLab CIVisual Studio CodeAlpine LinuxCent OSDebianRocky LinuxUbuntu
+
+My latest blog posts :
+
+
+My links :
+Vagrant
+Ansible
+Docker
+Kubernetes
+Terraform
+Gitlab-ci
+Where to find me
+LinkedIn Twitter
+
+Weather
+Toluca: 🌦 +2°C
